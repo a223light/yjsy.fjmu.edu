@@ -1,0 +1,92 @@
+Uri: https://yjsy.fjmu.edu.cn/2024/0325/c2439a191176/page.htm
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\2024\0325\c2439a191176\page.htm
+Content Type: text/html
+
+Uri: https://yjsy.fjmu.edu.cn/_css/_system/system.css
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_css\_system\system.css
+Content Type: text/css
+
+Uri: https://yjsy.fjmu.edu.cn/_js/jquery-migrate.min.js
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_js\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://yjsy.fjmu.edu.cn/_js/jquery.sudy.wp.visitcount.js
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_js\jquery.sudy.wp.visitcount.js
+Content Type: application/javascript
+
+Uri: https://yjsy.fjmu.edu.cn/_js/sudy-jquery-autoload.js
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_js\sudy-jquery-autoload.js
+Content Type: application/javascript
+
+Uri: https://yjsy.fjmu.edu.cn/_js/_portletPlugs/datepicker/css/datepicker.css
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_js\_portletPlugs\datepicker\css\datepicker.css
+Content Type: text/css
+
+Uri: https://yjsy.fjmu.edu.cn/_js/_portletPlugs/datepicker/js/datepicker_lang_HK.js
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_js\_portletPlugs\datepicker\js\datepicker_lang_HK.js
+Content Type: application/javascript
+
+Uri: https://yjsy.fjmu.edu.cn/_js/_portletPlugs/datepicker/js/jquery.datepicker.js
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_js\_portletPlugs\datepicker\js\jquery.datepicker.js
+Content Type: application/javascript
+
+Uri: https://yjsy.fjmu.edu.cn/_js/_portletPlugs/simpleNews/css/simplenews.css
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_js\_portletPlugs\simpleNews\css\simplenews.css
+Content Type: text/css
+
+Uri: https://yjsy.fjmu.edu.cn/_js/_portletPlugs/sudyNavi/css/sudyNav.css
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_js\_portletPlugs\sudyNavi\css\sudyNav.css
+Content Type: text/css
+
+Uri: https://yjsy.fjmu.edu.cn/_js/_portletPlugs/sudyNavi/jquery.sudyNav.js
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_js\_portletPlugs\sudyNavi\jquery.sudyNav.js
+Content Type: application/javascript
+
+Uri: https://yjsy.fjmu.edu.cn/_ueditor/themes/default/images/icon_doc.gif
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_ueditor\themes\default\images\icon_doc.gif
+Content Type: image/gif
+
+Uri: https://yjsy.fjmu.edu.cn/_ueditor/themes/default/images/icon_xls.gif
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_ueditor\themes\default\images\icon_xls.gif
+Content Type: image/gif
+
+Uri: https://yjsy.fjmu.edu.cn/_upload/article/files/2d/80/45833dd94e9f92ac09ca098757ed/901c2048-b92d-47f7-8ea3-7f345a4cd270.doc
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_upload\article\files\2d\80\45833dd94e9f92ac09ca098757ed\901c2048-b92d-47f7-8ea3-7f345a4cd270.doc
+Content Type: application/msword
+
+Uri: https://yjsy.fjmu.edu.cn/_upload/article/files/2d/80/45833dd94e9f92ac09ca098757ed/90fc04fd-d62b-4ba2-8a93-b3c3e0fd41d4.doc
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_upload\article\files\2d\80\45833dd94e9f92ac09ca098757ed\90fc04fd-d62b-4ba2-8a93-b3c3e0fd41d4.doc
+Content Type: application/msword
+
+Uri: https://yjsy.fjmu.edu.cn/_upload/article/files/2d/80/45833dd94e9f92ac09ca098757ed/95119d26-8a95-4c8c-8939-f63f57ef5ea5.doc
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_upload\article\files\2d\80\45833dd94e9f92ac09ca098757ed\95119d26-8a95-4c8c-8939-f63f57ef5ea5.doc
+Content Type: application/msword
+
+Uri: https://yjsy.fjmu.edu.cn/_upload/article/files/2d/80/45833dd94e9f92ac09ca098757ed/eaea595f-bd5e-4bf3-9f99-b116a8b17c26.xls
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_upload\article\files\2d\80\45833dd94e9f92ac09ca098757ed\eaea595f-bd5e-4bf3-9f99-b116a8b17c26.xls
+Content Type: application/vnd.ms-excel
+
+Uri: https://yjsy.fjmu.edu.cn/_upload/site/00/3a/58/logo.jpg
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_upload\site\00\3a\58\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://yjsy.fjmu.edu.cn/_upload/site/00/3a/58/style/49/49.css
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_upload\site\00\3a\58\style\49\49.css
+Content Type: text/css
+
+Uri: https://yjsy.fjmu.edu.cn/_upload/site/1/style/1/1.css
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_upload\site\1\style\1\1.css
+Content Type: text/css
+
+Uri: https://yjsy.fjmu.edu.cn/_upload/tpl/03/0b/779/template779/css/style.css
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_upload\tpl\03\0b\779\template779\css\style.css
+Content Type: text/css
+
+Uri: https://yjsy.fjmu.edu.cn/_upload/tpl/03/0b/779/template779/extends/extends.css
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_upload\tpl\03\0b\779\template779\extends\extends.css
+Content Type: text/css
+
+Uri: https://yjsy.fjmu.edu.cn/_upload/tpl/03/0b/779/template779/extends/extends.js
+File Name: C:\Users\asus\Desktop\S\S1\yjsy.fjmu.edu.cn\_upload\tpl\03\0b\779\template779\extends\extends.js
+Content Type: application/javascript
+
